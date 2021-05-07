@@ -1,0 +1,7 @@
+ python3 -m venv oop_play
+ cd oop_play/
+ sudo chmod 777 -R *
+ bin/pip3 install --upgrade pip
+ bin/pip3 install requests
+ bin/pip3 install spyder
+ bin/spyder
